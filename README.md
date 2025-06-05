@@ -6,6 +6,4 @@
   </samp>
 </p>
 
-<div align="center">
-  ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandorose&theme=nord&show_icons=true)
-</div>
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandorose&theme=nord&show_icons=true)
