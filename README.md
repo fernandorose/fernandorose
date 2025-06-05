@@ -5,3 +5,5 @@
     <a href="https://www.instagram.com/__fernando_rose/">instagram</a> 
   </samp>
 </p>
+
+[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandorose)](https://github.com/anuraghazra/github-readme-stats)
